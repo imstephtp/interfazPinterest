@@ -25,9 +25,9 @@ Se enfoca en replicar la apariencia visual de Pinterest, ofreciendo una experien
 ### Contacto 
 Si te gustaría invitarme a colaborar en un proyecto, contáctame.
 
-[LinkedIn] (https://linkedin.com/in/imstephtp)
+[LinkedIn](https://linkedin.com/in/imstephtp)
 
-[Twitter] (https://twitter.com/imstephtp)
+[Twitter](https://twitter.com/imstephtp)
 
 <p align="left">
 <a href="https://twitter.com/imstephtp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imstephtp" height="30" width="40" /></a>
