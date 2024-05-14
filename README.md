@@ -22,6 +22,9 @@ Se enfoca en replicar la apariencia visual de Pinterest, ofreciendo una experien
 ### Vista Previa del Proyecto
 ![Demo](images/vistaPrevia.png)
 
+### Demo
+[Link al demo](https://interfaz-pinterest-cyan.vercel.app/)
+
 ### Contacto 
 Si te gustaría invitarme a colaborar en un proyecto, contáctame.
 
